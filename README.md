@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> I'm MD ASHRAF
-### 🤖 AI/ML Engineer | Full-Stack Enthusiast | Data Alchemist
+### 🤖 AI/ML Engineer 
 
 ---
 
